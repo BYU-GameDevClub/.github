@@ -1,6 +1,6 @@
 # BYU Game Dev Club!
 <p align="center">
-    <img src="images/GameDevClub.png" alt="Logo" width="200px">
+    <img src="../images/GameDevClub.png" alt="Logo" width="200px">
 </p>
 The purpose of the Game Development club is to connect people of all interest and experience levels who share a passion for game development.  Whether you're a seasoned programmer, a story writer, an animator, or something else entirely, if you think making a game sounds fun, the game development club has a place for you.  We will discuss techniques of game design, practice developing together, and build important networking for developers in all skillsets.
 
